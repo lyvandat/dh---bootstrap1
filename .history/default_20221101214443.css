@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.footer {
+  background: rgb(44, 42, 42);
+}
+
+.copy-right {
+  width: calc(100% + 24px);
+  margin-left: -12px;
+}

@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.footer {
+  background: rgb(44, 42, 42);
+}
+
+.copy-right {
+  padding: 12px;
+}
